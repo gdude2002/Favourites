@@ -1,0 +1,8 @@
+# PyCharm
+.idea/
+*.iml
+
+# Python
+*.pyc
+*.pyo
+__pycache__
